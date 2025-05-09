@@ -805,10 +805,5 @@ For the laboratory work, students should implement the following algorithms in C
 1.  Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, “Introduction to algorithms”, Third Edition.. The MIT Press, 2009.
 2.  Ellis Horowitz, SartajSahni, SanguthevarRajasekiaran, “Computer Algorithms”, Second Edition, Silicon Press, 2007.
 3.  Kleinberg, Jon, and Eva Tardos, “Algorithm Design”, Addison-Wesley, First Edition, 2005.
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
 
-This structure should give you a very good starting point for your Word document. Remember to apply Word's styling features for the best look and for features like an automatic Table of Contents.
+
