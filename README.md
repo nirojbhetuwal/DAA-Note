@@ -1,30 +1,3 @@
-Okay, I can reformat the notes I've generated into a structure that you can easily copy and paste into a Microsoft Word document. I'll use Markdown-like formatting (which Word often interprets well or can be converted easily) to indicate headings, lists, bolding, and code blocks.
-
-Instructions for using this output in Word:
-
-Copy: Select all the text below and copy it (Ctrl+C or Cmd+C).
-
-Paste in Word: Open a new Word document and paste the text (Ctrl+V or Cmd+V).
-
-Word might offer "Paste Options." Try "Keep Source Formatting" if available and it looks good, or "Merge Formatting" or "Keep Text Only" and then apply styles.
-
-Apply Styles (Recommended for best results):
-
-For lines starting with #, use Heading 1 style.
-
-For lines starting with ##, use Heading 2 style.
-
-For lines starting with ###, use Heading 3 style.
-
-For lines starting with #### or bolded section titles, you can use Heading 4 or just keep them bold.
-
-Bulleted lists (* or -) and numbered lists (1.) should convert automatically.
-
-For pseudocode blocks (often marked with ```), select the block and apply a monospaced font like "Consolas" or "Courier New". You might also want to set the paragraph style to not have extra spacing between lines within the code block.
-
-Review and Tweak: Go through the document to ensure everything looks correct and adjust formatting as needed. Pay attention to indentation in pseudocode.
-
-Here's the structured content:
 
 # Course Notes: Design and Analysis of Algorithms
 
